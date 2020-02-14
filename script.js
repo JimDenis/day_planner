@@ -52,7 +52,7 @@ function doGet() {
       $(fullName).addClass("past");
 
       if (get === null) {
-        document.getElementById(fullName2).value = "Nothing out there"; 
+        continue; 
       } else {
         document.getElementById(fullName2).value = get;
       } 
