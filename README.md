@@ -1,4 +1,9 @@
 # day_planner
+<<<<<<< HEAD
+=======
+
+![Alt text](day_planner.png)
+>>>>>>> 1b7119d437f36e6338cc76412051d5155824a364
 
 ![Alt text](day_planner.png)
 
