@@ -6,7 +6,7 @@ Day planner shows a "to do" list for the current day from 8:00 to 17:00. When yo
 
 ### Prerequisites
 
-Needed an API key for openweathermap.org.
+None.
 
 ### Installing
 
@@ -24,6 +24,6 @@ No automated testing
 
 ## Authors
 
--   **JIM Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
+-   **Jim Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
 
 This app can be found on https://jimdenis.github.io/day_planner/
