@@ -6,9 +6,9 @@ Day planner shows a "to do" list for the current day from 8:00 to 17:00. When yo
 
 ### Instrutions:
 
--   Gray times are past, red is current & greeen is future
--   Add your "to do" next to tim e it needs to be done
--   Hit ""Save" & it will stay there
+-   Gray times (hours) are past, red is current & greeen is future
+-   Add your "to do" next to time it needs to be done
+-   Hit ""Save" & it will be entered
 -   See example below.....
 
 ![Alt text](screencapture-jimdenis-github-io-day_planner-1595966062373.png)
@@ -32,6 +32,7 @@ No automated testing
 ## Built With
 
 -   HTML
+-   CSS
 -   Bootstrap
 -   JavaScript
 
