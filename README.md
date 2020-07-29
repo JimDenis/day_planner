@@ -34,6 +34,7 @@ No automated testing
 -   HTML
 -   CSS
 -   Bootstrap
+-   Local Storage
 -   JavaScript
 
 ## Authors
